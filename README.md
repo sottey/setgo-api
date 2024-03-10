@@ -16,7 +16,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 
 #### SHOW HELP
 
-```http
+```
   GET /
 ```
 
@@ -29,7 +29,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 
 #### GET ALL APPS
 
-```http
+```
   GET /apps
 ```
 
@@ -41,7 +41,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 
 
 #### GET APP INFORMATION BY ID
-```http
+```
   GET /apps/{id}
 ```
 | Parameter | Type     | Description                       |
@@ -51,7 +51,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 *Returns app information for app with specified id*
 
 #### GET ALL CATEGORY NAMES
-```http
+```
   GET /cats
 ```
 | Parameter | Type     | Description                       |
@@ -61,7 +61,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 *Returns all category names*
 
 #### GET ALL APPS IN CATEGORY
-```http
+```
   GET /cats/{category}
 ```
 | Parameter | Type     | Description                       |
@@ -71,7 +71,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 *Returns all apps in specified category*
 
 #### GET SUBCATEGORY IDS AND NAMES
-```http
+```
   GET /subcats
 ```
 | Parameter | Type     | Description                       |
@@ -81,7 +81,7 @@ An unofficial, unauthorized, unknown, unapproved caching API for [SetApp](https:
 *Returns all subcategories*
 
 #### SEARCH APPS
-```http
+```
   GET /search/{query}
 ```
 | Parameter | Type     | Description                       |
