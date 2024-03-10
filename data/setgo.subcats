@@ -1,0 +1,159 @@
+[
+    {
+        "id" : 1,
+        "name" : "Menu Bar & Dock"
+    },
+    {
+        "id" : 2,
+        "name" : "Battery"
+    },
+    {
+        "id" : 3,
+        "name" : "CPU & RAM"
+    },
+    {
+        "id" : 4,
+        "name" : "Temperature"
+    },
+    {
+        "id" : 5,
+        "name" : "Storage"
+    },
+    {
+        "id" : 6,
+        "name" : "Security"
+    },
+    {
+        "id" : 7,
+        "name" : "Speed"
+    },
+    {
+        "id" : 8,
+        "name" : "Network"
+    },
+    {
+        "id" : 9,
+        "name" : "Screen"
+    },
+    {
+        "id" : 10,
+        "name" : "Hacks"
+    },
+    {
+        "id" : 11,
+        "name" : "Screen Capture"
+    },
+    {
+        "id" : 12,
+        "name" : "Task Management"
+    },
+    {
+        "id" : 13,
+        "name" : "Time Tracking"
+    },
+    {
+        "id" : 14,
+        "name" : "Project Management"
+    },
+    {
+        "id" : 15,
+        "name" : "Calendar & Mail"
+    },
+    {
+        "id" : 16,
+        "name" : "Files & Folders"
+    },
+    {
+        "id" : 17,
+        "name" : "Meetings"
+    },
+    {
+        "id" : 18,
+        "name" : "Focus"
+    },
+    {
+        "id" : 19,
+        "name" : "Study"
+    },
+    {
+        "id" : 20,
+        "name" : "Finance"
+    },
+    {
+        "id" : 21,
+        "name" : "Writing"
+    },
+    {
+        "id" : 22,
+        "name" : "Design"
+    },
+    {
+        "id" : 23,
+        "name" : "Presentation"
+    },
+    {
+        "id" : 24,
+        "name" : "Photo"
+    },
+    {
+        "id" : 25,
+        "name" : "Video"
+    },
+    {
+        "id" : 26,
+        "name" : "Music & Streaming"
+    },
+    {
+        "id" : 27,
+        "name" : "News & Entertainment"
+    },
+    {
+        "id" : 28,
+        "name" : "PDF"
+    },
+    {
+        "id" : 29,
+        "name" : "Database"
+    },
+    {
+        "id" : 30,
+        "name" : "API"
+    },
+    {
+        "id" : 31,
+        "name" : "Git"
+    },
+    {
+        "id" : 32,
+        "name" : "Code Snippets"
+    },
+    {
+        "id" : 33,
+        "name" : "Xcode"
+    },
+    {
+        "id" : 34,
+        "name" : "Server"
+    },
+    {
+        "id" : 35,
+        "name" : "Web Development"
+    },
+    {
+        "id" : 36,
+        "name" : "Timesavers"
+    },
+    {
+        "id" : 37,
+        "name" : "Backend"
+    },
+    {
+        "id" : 38,
+        "name" : "Text"
+    },
+    {
+        "id" : 39,
+        "name" : "Audio"
+    }    
+]
+ 

@@ -1,0 +1,23 @@
+{{define "helpTemplate" }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setgo-api</title>
+</head>
+<body>
+    <h1>Setgo-api</h1>
+    <h3>An unofficial, unauthorized, unknown, unapproved caching API for <a target="_blank" href="https://setapp.com">SetApp</a> data</h3>
+        <b>USAGE:</B>
+        <table>
+            <tr><td><a target="_blank" href="http://localhost:8080/" >http://localhost:8080/</a></td><td>Show this help information</td></tr>
+            <tr><td><a target="_blank" href="http://localhost:8080/apps">http://localhost/apps:8080/</a></td><td>Return all apps</td><tr>
+            <tr><td><a target="_blank" href="http://localhost:8080/apps/528">http://localhost:8080/apps/528</a></td><td>Return details for app with id 528</td><tr>
+            <tr><td><a target="_blank" href="http://localhost:8080/cats">http://localhost:8080/cats</a></td><td>Return all category names</td><tr>
+            <tr><td><a target="_blank" href="http://localhost:8080/cats/work">http://localhost:8080/cats/work</a></td><td>Return all apps with the category 'work'</td><tr>
+            <tr><td><a target="_blank" href="http://localhost:8080/subcats">http://localhost:8080/subcats</a></td><td>Return all subcategory id's and names</td><tr>
+            <tr><td><a target="_blank" href="http://localhost:8080/search/query">http://localhost:8080/search/query</a></td><td>Return all items which have 'query' in their name or description</td><tr>
+        </table>
+</body>
+{{end}}
